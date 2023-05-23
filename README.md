@@ -27,6 +27,7 @@ In the end, our collective efforts resulted in a final dataset comprising 10,000
 
 The dataset was then split into 80% training and 20% test.
 
+# Training
 ## Hyper-parameter optimization to find the best solution for each model
 
 Without doing any cleaning on the data we have search for the best parameters for each models and calculated the precision, recall, f1-score and accuracy.
