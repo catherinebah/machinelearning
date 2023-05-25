@@ -14,10 +14,19 @@ In the context of our research, learning a language can be the first step toward
 Extensive reading is very important to learn a new language faster and more efficiently. 
 In this project, we try to develop extensive reading into a better-tailored experience for language learners. 
 
+# Current landscape and available solutions
+
 <a href="https://www.researchgate.net/profile/Kensuke-Takii/publication/350994330_An_English_Picture-book_Recommender_System_for_Extensive_Reading_Using_Vocabulary_Knowledge_Map/links/607f5c208ea909241e121185/An-English-Picture-book-Recommender-System-for-Extensive-Reading-Using-Vocabulary-Knowledge-Map.pdf"> In that research paper</a>, a recommender system was developed with a focus on catering to users' English proficiency levels. The system's objective is to suggest text-image books specifically designed for Japanese learners, taking into account their individual language abilities.
 Or, <a href="https://link.springer.com/article/10.1007/s40593-020-00201-7"> In that other paper</a>, they explore the application of NLP and hierarchical machine learning techniques for classifying text difficulty levels. The study investigates methods to effectively analyze and categorize the complexity of textual content.
 
 Recognizing the significance of extensive reading for accelerated and efficient language learning, our project aims to enhance the tailored experience for language learners. We seek to predict levels of French texts/sentences into CEFR levels.
+
+In terms of soltuions accessible online, we have not found a free source for french text classification, but we found two websites which classify english text by CEFR levels :
+
+http://www.roadtogrammar.com/textanalysis/
+https://hub.cathoven.com/?scene=analyser&core=cefr
+
+Even among both of those websites, they frequently fail to return the same predicted CEFR level for the same phrase.
 
 # Data
 
